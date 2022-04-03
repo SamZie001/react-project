@@ -1,0 +1,9 @@
+header{
+    color: white;
+    display: block;
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+    margin: 20px auto;
+    text-decoration: dashed underline;
+}
